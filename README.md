@@ -1,2 +1,2 @@
 # FCN-segmentation
-just a attampt for building a FCN to achieve graph segmentation
+just an attampt for building a FCN to achieve graph segmentation
